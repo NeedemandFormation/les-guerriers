@@ -1,6 +1,10 @@
 # jeu-avatars
 
-This template should help get you started developing with Vue 3 in Vite.
+Un avatar peut être de classe voleur, magicien ou guerrier. 
+Un avatar peut combattre un autre avatar. 
+Le gagnant remporte l'or du perdant. 
+
+Ce code sert de base à l'exercice : Les guerriers.
 
 ## Recommended IDE Setup
 
@@ -30,6 +34,9 @@ pnpm build
 
 ### Lint with [ESLint](https://eslint.org/)
 
+ESLint permet de souligner les erreurs. 
+
 ```sh
 pnpm lint
 ```
+
